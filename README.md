@@ -292,8 +292,8 @@ To deploy this project run
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/sohamlate/Huehub/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sohamlate/Huehub" />
+<a href="https://github.com/sohamlate/lavanyamahalle/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=lavanyamahalle/Huehub" />
 </a>
 
 Contributions are always welcome!
